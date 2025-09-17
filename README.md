@@ -18,7 +18,8 @@ This notebook details the process of building and training an LSTM and GRU model
 - NumPy  
 - TensorFlow / Keras  
 - Scikit-learn  
-- Pickle (for saving tokenizer)  
+- Pickle (for saving tokenizer)
+- streamlit(for user interface)  
 
 **Methodology:**  
 
